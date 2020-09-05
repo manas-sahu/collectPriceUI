@@ -1,0 +1,242 @@
+{
+    "scrappedPrice": [
+        {
+            "Website": "amazon",
+            "product_name": "Zebronics Zeb- Max pro Mechanical Gaming Keyboard(Black)",
+            "product_price": 0,
+            "product_availablity": "Currently unavailable.We don't know when or if this item will be back in stock.",
+            "time": 1599311087.524251
+        },
+        {
+            "Website": "amazon",
+            "product_name": "Cooler Master Case H500M ATX Computer Case",
+            "product_price": 0,
+            "product_availablity": "Currently unavailable.We don't know when or if this item will be back in stock.",
+            "time": 1599311089.911866
+        },
+        {
+            "Website": "amazon",
+            "product_name": "ZEBRONICS USB Gaming Mouse (PHOBOS) with RGB Lights",
+            "product_price": 1348,
+            "product_availablity": "In stock.",
+            "time": 1599311092.190576
+        },
+        {
+            "Website": "flipkart",
+            "product_name": "Zebronics MAX PRO MECHANICAL USB WIRED KEYBOARD Wired USB Gaming Keyboard  (Black)",
+            "product_price": 3250,
+            "product_availablity": "Sold Out",
+            "time": 1599311092.577357
+        },
+        {
+            "Website": "primeabgb",
+            "product_name": "ASUS TUF GAMING X570-PLUS AMD X570 (WI-FI) ATX Gaming Motherboard",
+            "product_price": 22700,
+            "product_availablity": "N/A",
+            "time": 1599311095.998515
+        },
+        {
+            "Website": "amazon",
+            "product_name": "Zebronics Zeb- Max pro Mechanical Gaming Keyboard(Black)",
+            "product_price": 0,
+            "product_availablity": "Currently unavailable.We don't know when or if this item will be back in stock.",
+            "time": 1599311375.928752
+        },
+        {
+            "Website": "amazon",
+            "product_name": "Cooler Master Case H500M ATX Computer Case",
+            "product_price": 0,
+            "product_availablity": "Currently unavailable.We don't know when or if this item will be back in stock.",
+            "time": 1599311378.013947
+        },
+        {
+            "Website": "amazon",
+            "product_name": "ZEBRONICS USB Gaming Mouse (PHOBOS) with RGB Lights",
+            "product_price": 1348,
+            "product_availablity": "In stock.",
+            "time": 1599311380.153345
+        },
+        {
+            "Website": "flipkart",
+            "product_name": "Zebronics MAX PRO MECHANICAL USB WIRED KEYBOARD Wired USB Gaming Keyboard  (Black)",
+            "product_price": 3250,
+            "product_availablity": "Sold Out",
+            "time": 1599311380.475128
+        },
+        {
+            "Website": "primeabgb",
+            "product_name": "ASUS TUF GAMING X570-PLUS AMD X570 (WI-FI) ATX Gaming Motherboard",
+            "product_price": 22700,
+            "product_availablity": "N/A",
+            "time": 1599311384.008164
+        },
+        {
+            "Website": "amazon",
+            "product_name": "Zebronics Zeb- Max pro Mechanical Gaming Keyboard(Black)",
+            "product_price": 0,
+            "product_availablity": "Currently unavailable.We don't know when or if this item will be back in stock.",
+            "time": 1599312132.684801
+        },
+        {
+            "Website": "amazon",
+            "product_name": "Cooler Master Case H500M ATX Computer Case",
+            "product_price": 0,
+            "product_availablity": "Currently unavailable.We don't know when or if this item will be back in stock.",
+            "time": 1599312134.709428
+        },
+        {
+            "Website": "mdcomputers",
+            "product_name": "Cooler Master MasterCase H500M",
+            "product_price": 19269,
+            "product_availablity": "In Stock",
+            "time": 1599312136.904752
+        },
+        {
+            "Website": "amazon",
+            "product_name": "ZEBRONICS USB Gaming Mouse (PHOBOS) with RGB Lights",
+            "product_price": 1348,
+            "product_availablity": "In stock.",
+            "time": 1599312139.419726
+        },
+        {
+            "Website": "flipkart",
+            "product_name": "Zebronics MAX PRO MECHANICAL USB WIRED KEYBOARD Wired USB Gaming Keyboard  (Black)",
+            "product_price": 3250,
+            "product_availablity": "Sold Out",
+            "time": 1599312139.836439
+        },
+        {
+            "Website": "primeabgb",
+            "product_name": "ASUS TUF GAMING X570-PLUS AMD X570 (WI-FI) ATX Gaming Motherboard",
+            "product_price": 22700,
+            "product_availablity": "N/A",
+            "time": 1599312143.606209
+        },
+        {
+            "Website": "amazon",
+            "product_name": "Zebronics Zeb- Max pro Mechanical Gaming Keyboard(Black)",
+            "product_price": 0,
+            "product_availablity": "Currently unavailable.We don't know when or if this item will be back in stock.",
+            "time": 1599312321.132508
+        },
+        {
+            "Website": "amazon",
+            "product_name": "Cooler Master Case H500M ATX Computer Case",
+            "product_price": 0,
+            "product_availablity": "Currently unavailable.We don't know when or if this item will be back in stock.",
+            "time": 1599312323.368391
+        },
+        {
+            "Website": "mdcomputers",
+            "product_name": "Cooler Master MasterCase H500M",
+            "product_price": 19269,
+            "product_availablity": "In Stock",
+            "time": 1599312325.692393
+        },
+        {
+            "Website": "amazon",
+            "product_name": "ZEBRONICS USB Gaming Mouse (PHOBOS) with RGB Lights",
+            "product_price": 1348,
+            "product_availablity": "In stock.",
+            "time": 1599312327.920292
+        },
+        {
+            "Website": "flipkart",
+            "product_name": "Zebronics MAX PRO MECHANICAL USB WIRED KEYBOARD Wired USB Gaming Keyboard  (Black)",
+            "product_price": 3250,
+            "product_availablity": "Sold Out",
+            "time": 1599312328.245115
+        },
+        {
+            "Website": "primeabgb",
+            "product_name": "ASUS TUF GAMING X570-PLUS AMD X570 (WI-FI) ATX Gaming Motherboard",
+            "product_price": 22700,
+            "product_availablity": "N/A",
+            "time": 1599312328.554948
+        },
+        {
+            "Website": "amazon",
+            "product_name": "Zebronics Zeb- Max pro Mechanical Gaming Keyboard(Black)",
+            "product_price": 0,
+            "product_availablity": "Currently unavailable.We don't know when or if this item will be back in stock.",
+            "time": 1599314152.184384
+        },
+        {
+            "Website": "amazon",
+            "product_name": "Cooler Master Case H500M ATX Computer Case",
+            "product_price": 0,
+            "product_availablity": "Currently unavailable.We don't know when or if this item will be back in stock.",
+            "time": 1599314154.260072
+        },
+        {
+            "Website": "mdcomputers",
+            "product_name": "Cooler Master MasterCase H500M",
+            "product_price": 19269,
+            "product_availablity": "In Stock",
+            "time": 1599314156.652109
+        },
+        {
+            "Website": "amazon",
+            "product_name": "ZEBRONICS USB Gaming Mouse (PHOBOS) with RGB Lights",
+            "product_price": 1348,
+            "product_availablity": "In stock.",
+            "time": 1599314158.859891
+        },
+        {
+            "Website": "flipkart",
+            "product_name": "Zebronics MAX PRO MECHANICAL USB WIRED KEYBOARD Wired USB Gaming Keyboard  (Black)",
+            "product_price": 3250,
+            "product_availablity": "Sold Out",
+            "time": 1599314159.242765
+        },
+        {
+            "Website": "primeabgb",
+            "product_name": "ASUS TUF GAMING X570-PLUS AMD X570 (WI-FI) ATX Gaming Motherboard",
+            "product_price": 22700,
+            "product_availablity": "N/A",
+            "time": 1599314162.39879
+        },
+        {
+            "Website": "amazon",
+            "product_name": "Zebronics Zeb- Max pro Mechanical Gaming Keyboard(Black)",
+            "product_price": 0,
+            "product_availablity": "Currently unavailable.We don't know when or if this item will be back in stock.",
+            "time": 1599314607.509093
+        },
+        {
+            "Website": "flipkart",
+            "product_name": "Zebronics MAX PRO MECHANICAL USB WIRED KEYBOARD Wired USB Gaming Keyboard  (Black)",
+            "product_price": 3250,
+            "product_availablity": "Sold Out",
+            "time": 1599314608.08621
+        },
+        {
+            "Website": "amazon",
+            "product_name": "Cooler Master Case H500M ATX Computer Case",
+            "product_price": 0,
+            "product_availablity": "Currently unavailable.We don't know when or if this item will be back in stock.",
+            "time": 1599314610.075293
+        },
+        {
+            "Website": "mdcomputers",
+            "product_name": "Cooler Master MasterCase H500M",
+            "product_price": 19269,
+            "product_availablity": "In Stock",
+            "time": 1599314612.382056
+        },
+        {
+            "Website": "primeabgb",
+            "product_name": "Cooler Master MasterCase H500M Mid Tower Case MCM-H500M-IHNN-S00",
+            "product_price": 17775,
+            "product_availablity": "Out of stock",
+            "time": 1599314616.960495
+        },
+        {
+            "Website": "primeabgb",
+            "product_name": "ASUS TUF GAMING X570-PLUS AMD X570 (WI-FI) ATX Gaming Motherboard",
+            "product_price": 22700,
+            "product_availablity": "In Stock",
+            "time": 1599314620.222174
+        }
+    ]
+}
