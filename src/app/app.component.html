@@ -9,7 +9,13 @@
     <!-- ID Column -->
     <ng-container matColumnDef="Website">
       <th mat-header-cell *matHeaderCellDef mat-sort-header> Website </th>
-      <td mat-cell *matCellDef="let row"> {{row.Website}} </td>
+      <td mat-cell *matCellDef="let row">
+        <img *ngIf="row.Website == 'amazon'" class="amazonicon" src="../assets/images/amazon.png" alt="">
+        <img *ngIf="row.Website == 'flipkart'" class="flipkarticon" src="../assets/images/flipkart.png" alt="">
+        <img *ngIf="row.Website == 'mdcomputers'" class="mdcomputersicon" src="../assets/images/mdcomputers.png" alt="">
+        <img *ngIf="row.Website == 'primeabgb'" class="primeicon" src="../assets/images/primeabgb.png" alt="">
+
+      </td>
     </ng-container>
 
     <!-- Progress Column -->
@@ -20,18 +26,18 @@
 
     <!-- Name Column -->
     <ng-container matColumnDef="product_price">
-      <th mat-header-cell *matHeaderCellDef mat-sort-header> product_price </th>
-      <td mat-cell *matCellDef="let row"> {{row.product_price}} </td>
+      <th mat-header-cell *matHeaderCellDef mat-sort-header> Product Price </th>
+      <td mat-cell *matCellDef="let row"> {{row.product_price ? row.product_price : "Not Available"}} </td>
     </ng-container>
 
     <!-- Color Column -->
     <ng-container matColumnDef="product_availablity">
-      <th mat-header-cell *matHeaderCellDef mat-sort-header> product_availablity </th>
+      <th mat-header-cell *matHeaderCellDef mat-sort-header> Product Availablity </th>
       <td mat-cell *matCellDef="let row" [style.color]="row.product_availablity"> {{row.product_availablity}} </td>
     </ng-container>
 
     <ng-container matColumnDef="time">
-      <th mat-header-cell *matHeaderCellDef mat-sort-header> time </th>
+      <th mat-header-cell *matHeaderCellDef mat-sort-header>Date & Time </th>
       <td mat-cell *matCellDef="let row" [style.color]="row.time"> {{row.time | date:'dd/MM/yy hh:mm'}} </td>
     </ng-container>
 
