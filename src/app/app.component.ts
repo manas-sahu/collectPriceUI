@@ -9,7 +9,7 @@ export interface PriceData {
   product_name: string;
   product_price: number;
   product_availablity: string;
-  time: number;
+  time: string;
 }
 
 @Component({
@@ -21,10 +21,11 @@ export class AppComponent {
   @ViewChild(MatPaginator) paginator: MatPaginator;
   @ViewChild(MatSort) sort: MatSort;
   displayedColumns: string[] = ['Website', 'product_name', 'product_price', 'product_availablity', 'time'];
-  dataSource = new MatTableDataSource(data['default']['scrappedPrice']);
+  dataSource = new MatTableDataSource(data['default']);
 
   ngOnInit(){
-    console.log(data['default']);
+    console.log('data');
+    console.log(data);
   }
 
   ngAfterViewInit() {

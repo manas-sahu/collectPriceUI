@@ -29,3 +29,8 @@ table {
   height: 50px;
   border-radius: 50%;
 }
+.clickable{
+  text-decoration: none;
+  color: aliceblue;
+  cursor: pointer;
+}
